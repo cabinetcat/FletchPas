@@ -1,5 +1,5 @@
 # FletchPas
-A library Implementation of Fletcher's checksum in Delphi/FreePascal 
+A unit Implementation of Fletcher's checksum in Delphi/FreePascal 
 # Usage
 ```pascal
 Checksum16: word = FletchPas.Fletcher16(ByteStream);
