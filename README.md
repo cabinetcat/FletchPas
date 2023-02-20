@@ -1,5 +1,5 @@
 # FletchPas
-A unit Implementation of Fletcher's checksum in Delphi/FreePascal 
+A unit Implementation of Fletcher's checksum in Free Pascal
 # Usage
 ```pascal
 uses
